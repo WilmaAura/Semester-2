@@ -1,0 +1,8 @@
+Tugas-Tugas Alpro
+1. Bikin flowchart
+2. Encapsulation
+3. bikin cin semua sortingan
+4. Bikin login
+5. Binary descending
+6. Linier search output 7 nya ada dua
+7. Bikin Resume dari materi awal

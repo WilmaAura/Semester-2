@@ -1,0 +1,22 @@
+sorting 2 minggu 
+1. bubble sort ✅
+2. selection sort✅
+3. insertion sort✅
+4. merge sort
+
+tambahan
+1. swap✅
+2. basic sort ✅
+3. typedef
+4. Pointer
+5. Recursion (bos besar)
+
+searching 1 minggu
+5. Linier / sequential searching
+6. binary searching
+
+linked list 2 minggu
+7. single lingk list non circular
+8. single lingk list circular
+9. Double linked list non circular
+10. Double link list circular

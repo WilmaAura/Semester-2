@@ -1,0 +1,12 @@
+{
+  "C_Cpp.default.compilerPath": "/media/wilma/Volume/Semester 2/Algoritma dan Struktur Data/Stack/stack.cpp",
+  "code-runner.runInTerminal": true,
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "C_Cpp.copilotHover": "disabled",
+  "editor.cursorBlinking": "expand"
+}
